@@ -23,13 +23,11 @@
 	margin: 20px;
 	padding: 20px;
 	width: 720px;
-	height: 450px;
 	background-color: #eee;
 	border:1px solid #999;
 }
 .main_left{
 	width: 200px;
-	height: 140px;
 	border:1px solid #999;
 	background-color: #fff;
 }
@@ -55,7 +53,7 @@
 {
 	border:1px solid #999;
 	width:120px;
-	height: 450px;
+
 }
 .main_right_photo
 {
@@ -84,7 +82,8 @@
 	  <div class="main_content left">
 	  <p>关于我们团队的介绍</p>
 	  <p>关于我们团队的介绍关于我们团队的介绍</p>
-	  <p>关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍</p>
+	
+	  <p>关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍</p>  <p>关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍</p>  <p>关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍关于我们团队的介绍</p>
 	  	
 	  </div>  <!-- main_content over -->
 	  <div class="main_right right">
